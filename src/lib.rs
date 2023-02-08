@@ -9,6 +9,7 @@ mod decimal;
 mod error;
 mod ops;
 mod str;
+mod num_traits;
 
 // We purposely place this here for documentation ordering
 mod arithmetic_impls;

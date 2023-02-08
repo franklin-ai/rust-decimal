@@ -744,6 +744,8 @@ impl Pow<f64> for Decimal {
     }
 }
 
+
+
 #[cfg(test)]
 mod test {
     use super::*;
